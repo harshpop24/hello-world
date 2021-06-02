@@ -6,8 +6,8 @@ oss- lab
 // C program to Open a File,
 // Write in it, And Close the File
 
-# include <stdio.h>
-# include <string.h>
+#include <stdio.h>
+#include <string.h>
 
 int main( )
 {
